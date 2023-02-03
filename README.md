@@ -8,4 +8,4 @@ Moving from AzureAD only to On-Premise sync is a process that no System Administ
 
 ## Prerequisites
 To run this application, you will need:
-- A web server to host the app
+:globe_with_meridians: A web server to host the app  
