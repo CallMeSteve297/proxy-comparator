@@ -3,6 +3,8 @@ Moving from AzureAD only to On-Premise sync is a process that no System Administ
 
 ## Features
 :white_check_mark: All calculations are local only, so no sharing data with servers
+:white_check_mark: Bi-Directional comparisons mean that you can check for missing addresses on both sides
+:white_check_mark: Specify either a semi-colon or plus symbol as your delimiter for proxy addresses
 
 ## Prerequisites
 To run this application, you will need:
