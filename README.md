@@ -7,5 +7,5 @@ Moving from AzureAD only to On-Premise sync is a process that no System Administ
 :white_check_mark: Specify either a semi-colon or plus symbol as your delimiter for proxy addresses  
 
 ## Prerequisites
-To run this application, you will need:
+To run this application, you will need:  
 :globe_with_meridians: A web server to host the app  
